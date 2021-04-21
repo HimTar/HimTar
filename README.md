@@ -1,4 +1,4 @@
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/himanshu-tariyal">
   <img align="left" alt="Himanshu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -11,8 +11,7 @@
 Hi, I'm Himanshu Tariyal, a Full Stack Javascript developer and Techology enthusiast. I love using latest technologies to make powerful, performant and secure appliactions. I write clean code, follow scalable architecture ( like Microsevice ) and fight through vulnerabilities to make softwares you can trust.
 
 
-  
-- 💬 Ask me about anything, I am happy to help;
+
 - 📫 How to reach me: tariyal2000@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1C_uFE0SlFPKBIpyDPMR5GnknMnaXzfJC/view?usp=sharing)
 
@@ -33,9 +32,5 @@ Hi, I'm Himanshu Tariyal, a Full Stack Javascript developer and Techology enthus
 
 📈 My GitHub Stats
 
-<div style="display:flex;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himtar&show_icons=true&theme=gotham" alt="himtar" />
-<img src="https://github-readme-stats.vercel.app/api?username=himtar&show_icons=true&theme=gotham" alt="himtar" />
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=himtar&show_icons=true&theme=gotham" alt="himtar" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=himtar&show_icons=true&theme=gotham" alt="himtar" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himtar&show_icons=true&theme=gotham" alt="himtar" />
