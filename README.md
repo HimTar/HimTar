@@ -13,7 +13,7 @@ Hi, I'm Himanshu Tariyal, a Full Stack Javascript developer and Techology enthus
 
 
 - 📫 How to reach me: tariyal2000@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1C_uFE0SlFPKBIpyDPMR5GnknMnaXzfJC/view?usp=sharing)
+<!-- - 📝 [Resume](https://drive.google.com/file/d/1C_uFE0SlFPKBIpyDPMR5GnknMnaXzfJC/view?usp=sharing) -->
 
 **Languages and Tools:**  
 
