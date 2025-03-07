@@ -31,6 +31,4 @@ Hi, I'm Himanshu Tariyal, a Full Stack Javascript developer and Techology enthus
 
 
 📈 My GitHub Stats
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=himtar&show_icons=true&theme=gotham" alt="himtar" />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himtar&show_icons=true&theme=gotham" alt="himtar" />
